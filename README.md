@@ -1,1 +1,1 @@
-# SQL_TIL
+# 07_SQL_BASIC
